@@ -70,3 +70,10 @@ jspm_packages/
 
 # MacOS system files
 Thumbs.db
+
+node_modules/
+.env
+*.log
+*_sessions/
+dist/
+*.png
